@@ -1,0 +1,14 @@
+Below is a LeetCode problem statement. Write a solution for it in Python 3.
+
+Here is the problem description:
+<PROBLEM>
+
+Follow the method signature provided below:
+<LAYOUT>
+
+Requirements:
+1. Use Python 3 syntax.
+2. Ensure the solution is optimized for both time and space complexity. If there is a follow-up question at the end of the problem directly code that.
+3. Avoid unnecessary comments or explanations. Focus on generating only the code.
+
+Make sure the response includes only the complete function implementation.
